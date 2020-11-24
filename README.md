@@ -9,4 +9,4 @@ https://wnsgml972.github.io/ffmpeg/2018/02/09/ffmpeg_ffserver_config/
 
 middle-server 실행
 
-```python3 Client_midlle.py```
+```python3 Client_middle.py```
