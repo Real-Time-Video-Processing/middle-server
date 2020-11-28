@@ -1,4 +1,4 @@
-# midle-server
+# middle-server
 
 > 사전 설치
 ffserver, ffmpeg 설치
